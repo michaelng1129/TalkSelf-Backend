@@ -1,1 +1,6 @@
+__pycache__
+
 venv/
+
+faceGenerator/gfpgan/weights/
+faceGenerator/checkpoints/
