@@ -6,5 +6,5 @@ __pycache__
 *.tar
 *.pth
 *.mp4
+*.wav
 
-voiceGenerator/*
