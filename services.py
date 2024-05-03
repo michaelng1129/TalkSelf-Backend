@@ -8,9 +8,9 @@ import passlib.hash as hash
 import jwt 
 import os
 import azure.cognitiveservices.speech as speechsdk
-from ffmpeg import FFmpeg
 from PIL import Image
 import io
+from ffmpeg import FFmpeg
 
 oauth2schema = security.OAuth2PasswordBearer(tokenUrl="/api/token")
 

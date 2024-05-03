@@ -4,3 +4,6 @@ venv/
 
 faceGenerator/gfpgan/weights/
 faceGenerator/checkpoints/
+faceGenerator/results/
+
+voiceGenerator/
