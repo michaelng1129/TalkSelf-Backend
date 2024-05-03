@@ -7,4 +7,6 @@ __pycache__
 *.pth
 *.mp4
 *.wav
+*.png
+*.db
 
