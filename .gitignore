@@ -1,9 +1,10 @@
 __pycache__
 
-venv/
+/venv
 
-/faceGenerator/gfpgan/weights/*
-/faceGenerator/checkpoints/*
-/faceGenerator/results/*
+*.safetensors
+*.tar
+*.pth
+*.mp4
 
 voiceGenerator/*
